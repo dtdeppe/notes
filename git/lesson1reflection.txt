@@ -31,3 +31,6 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+    git log will list histroy, git diff x y will compare the changes.
